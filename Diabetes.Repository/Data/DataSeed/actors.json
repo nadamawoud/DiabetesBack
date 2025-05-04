@@ -1,0 +1,90 @@
+{
+  "Admins": [
+    {
+      "FullName": "Nada",
+      "Email": "nada@admin.com",
+      "Password": "Admin123*",
+      "Role": "Admin"
+    },
+    {
+      "FullName": "Nour",
+      "Email": "nour@admin.com",
+      "Password": "Admin123*",
+      "Role": "Admin"
+    },
+    {
+      "FullName": "Norhan",
+      "Email": "norhan@admin.com",
+      "Password": "Admin123*",
+      "Role": "Admin"
+    },
+    {
+      "FullName": "Aya",
+      "Email": "aya@admin.com",
+      "Password": "Admin123*",
+      "Role": "Admin"
+    },
+    {
+      "FullName": "Sara",
+      "Email": "sara@admin.com",
+      "Password": "Admin123*",
+      "Role": "Admin"
+    }
+  ],
+  "Managers": [
+    {
+      "FullName": "Salma",
+      "Email": "salma@manager.com",
+      "Password": "Manager123*",
+      "Role": "Manager"
+    },
+    {
+      "FullName": "Mai",
+      "Email": "mai@manager.com",
+      "Password": "Manager123*",
+      "Role": "Manager"
+    }
+  ],
+  "Organizations": [
+    {
+      "FullName": "Medical Syndicate",
+      "Email": "med@org.com",
+      "Password": "Org123*",
+      "IsMedicalSyndicate": true,
+      "Role": "MedicalSyndicate",
+      "AdminEmail": "nada@admin.com"
+    },
+    {
+      "FullName": "National Institute of Diabetes",
+      "Email": "nid@org.com",
+      "Password": "Org123*",
+      "IsMedicalSyndicate": false,
+      "Role": "NationalInstitute",
+      "AdminEmail": "nour@admin.com"
+    },
+    {
+      "FullName": "Ministry of Health",
+      "Email": "moh@org.com",
+      "Password": "Org123*",
+      "IsMedicalSyndicate": false,
+      "Role": "MinistryOfHealth",
+      "AdminEmail": "norhan@admin.com"
+    },
+    {
+      "FullName": "World Health Organization",
+      "Email": "who@org.com",
+      "Password": "Org123*",
+      "IsMedicalSyndicate": false,
+      "Role": "WHO",
+      "AdminEmail": "aya@admin.com"
+    },
+    {
+      "FullName": "General Authority for Health Insurance",
+      "Email": "gah@org.com",
+      "Password": "Org123*",
+      "IsMedicalSyndicate": false,
+      "Role": "GeneralAuthority",
+      "AdminEmail": "sara@admin.com"
+    }
+  ]
+}

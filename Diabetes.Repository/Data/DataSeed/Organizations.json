@@ -1,0 +1,57 @@
+[
+  {
+    "AppUserId": "org-1",
+    "FullName": "Medical Syndicate",
+    "Email": "syndicate@diabetes.com",
+    "UserName": "syndicate@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEP3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y==",
+    "Organization": {
+      "IsMedicalSyndicate": true
+    }
+  },
+  {
+    "AppUserId": "org-2",
+    "FullName": "National Institute of Diabetes",
+    "Email": "institute@diabetes.com",
+    "UserName": "institute@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEI2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y==",
+    "Organization": {
+      "IsMedicalSyndicate": false
+    }
+  },
+  {
+    "AppUserId": "org-3",
+    "FullName": "Ministry of Health",
+    "Email": "ministry@diabetes.com",
+    "UserName": "ministry@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEI2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y==",
+    "Organization": {
+      "IsMedicalSyndicate": false
+    }
+  },
+  {
+    "AppUserId": "org-4",
+    "FullName": "World Health Organization",
+    "Email": "who@diabetes.com",
+    "UserName": "who@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEI2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y==",
+    "Organization": {
+      "IsMedicalSyndicate": false
+    }
+  },
+  {
+    "AppUserId": "org-5",
+    "FullName": "General Authority for Health Insurance",
+    "Email": "authority@diabetes.com",
+    "UserName": "authority@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEI2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y==",
+    "Organization": {
+      "IsMedicalSyndicate": false
+    }
+  }
+]

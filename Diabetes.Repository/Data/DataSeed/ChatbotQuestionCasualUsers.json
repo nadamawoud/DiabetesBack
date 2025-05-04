@@ -1,0 +1,65 @@
+[
+  {
+    "QuestionText": "What is your age? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is your gender?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you experience frequent urination?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you often feel excessively thirsty?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Have you experienced sudden weight loss?"
+  },
+  {
+    "QuestionText": "Do you often feel weak?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you have excessive hunger?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Have you had a genital fungal infection?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you suffer from blurred vision?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you often experience itching?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you feel easily irritable?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do your wounds heal slowly?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you suffer from partial paralysis?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Do you experience muscle stiffness?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Are you experiencing noticeable hair loss?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Are you suffering from obesity?",
+    "AdminID": 1
+  }
+]

@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.ieusa3cdqc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ieusa3cdqc"},{"Name":"integrity","Value":"sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="},{"Name":"label","Value":"_content/Diabetes.API/uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4838"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4838"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.ieusa3cdqc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\84564b28-ef24-44fa-8d41-943725c48d1b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ieusa3cdqc"},{"Name":"integrity","Value":"sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="},{"Name":"label","Value":"_content/Diabetes.API/uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4838"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:32:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\84564b28-ef24-44fa-8d41-943725c48d1b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4838"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:32:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\950445cf-0790-44e6-a9d4-02929dbe0634.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"702900"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:32:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.t9rpetoe4c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\950445cf-0790-44e6-a9d4-02929dbe0634.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t9rpetoe4c"},{"Name":"integrity","Value":"sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="},{"Name":"label","Value":"_content/Diabetes.API/uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"702900"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:32:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c7586ad7-a848-4ae9-8c74-f63136f8719b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"702900"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Diabetes.API/uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.t9rpetoe4c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c7586ad7-a848-4ae9-8c74-f63136f8719b.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t9rpetoe4c"},{"Name":"integrity","Value":"sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="},{"Name":"label","Value":"_content/Diabetes.API/uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"702900"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 21:30:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

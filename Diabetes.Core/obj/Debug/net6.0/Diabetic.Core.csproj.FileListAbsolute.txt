@@ -1,0 +1,13 @@
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\bin\Debug\net6.0\Diabetic.Core.deps.json
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\bin\Debug\net6.0\Diabetic.Core.dll
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\bin\Debug\net6.0\Diabetic.Core.pdb
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.AssemblyInfo.cs
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.sourcelink.json
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.dll
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\refint\Diabetic.Core.dll
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\Diabetic.Core.pdb
+C:\Users\H\source\repos\Diabetic\Diabetic.Core\obj\Debug\net6.0\ref\Diabetic.Core.dll

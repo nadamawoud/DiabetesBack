@@ -1,0 +1,167 @@
+[
+  {
+    "AppUserId": "admin-16",
+    "FullName": "Hanaa Mohamed",
+    "Email": "hanaa.mohamed@diabetes.com",
+    "UserName": "hanaa.mohamed@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1992-04-16",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-17",
+    "FullName": "Adel Ramadan",
+    "Email": "adel.ramadan@diabetes.com",
+    "UserName": "adel.ramadan@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1986-05-17",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-18",
+    "FullName": "Salma Ezzat",
+    "Email": "salma.ezzat@diabetes.com",
+    "UserName": "salma.ezzat@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1990-06-18",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-19",
+    "FullName": "Fady Samir",
+    "Email": "fady.samir@diabetes.com",
+    "UserName": "fady.samir@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1985-07-19",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-20",
+    "FullName": "Nadine Farid",
+    "Email": "nadine.farid@diabetes.com",
+    "UserName": "nadine.farid@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1991-08-20",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-21",
+    "FullName": "Karim Atef",
+    "Email": "karim.atef@diabetes.com",
+    "UserName": "karim.atef@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1987-09-21",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-22",
+    "FullName": "Nesma Lotfy",
+    "Email": "nesma.lotfy@diabetes.com",
+    "UserName": "nesma.lotfy@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1988-10-22",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-23",
+    "FullName": "Mahmoud Nabil",
+    "Email": "mahmoud.nabil@diabetes.com",
+    "UserName": "mahmoud.nabil@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1983-11-23",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-24",
+    "FullName": "Rania Adel",
+    "Email": "rania.adel@diabetes.com",
+    "UserName": "rania.adel@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1992-12-24",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-25",
+    "FullName": "Aly Hussein",
+    "Email": "aly.hussein@diabetes.com",
+    "UserName": "aly.hussein@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1980-01-25",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-26",
+    "FullName": "Hala Sobhy",
+    "Email": "hala.sobhy@diabetes.com",
+    "UserName": "hala.sobhy@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1981-02-26",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-27",
+    "FullName": "Omar Shoukry",
+    "Email": "omar.shoukry@diabetes.com",
+    "UserName": "omar.shoukry@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1982-03-27",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-28",
+    "FullName": "Samia Fawzy",
+    "Email": "samia.fawzy@diabetes.com",
+    "UserName": "samia.fawzy@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1984-04-28",
+    "Gender": "Female",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-29",
+    "FullName": "Sherif Zaki",
+    "Email": "sherif.zaki@diabetes.com",
+    "UserName": "sherif.zaki@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1985-05-29",
+    "Gender": "Male",
+    "Admin": {}
+  },
+  {
+    "AppUserId": "admin-30",
+    "FullName": "Nourhan Hisham",
+    "Email": "nourhan.hisham@diabetes.com",
+    "UserName": "nourhan.hisham@diabetes.com",
+    "EmailConfirmed": true,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHy6BXZ8r5BZM/fj4TwXyV7B9R6T1UaRk7J8ZqY6JvJk1kLmZ1Q2X8X7v2XJ5wKZ3Q==",
+    "BirthDate": "1993-06-30",
+    "Gender": "Female",
+    "Admin": {}
+  }
+]

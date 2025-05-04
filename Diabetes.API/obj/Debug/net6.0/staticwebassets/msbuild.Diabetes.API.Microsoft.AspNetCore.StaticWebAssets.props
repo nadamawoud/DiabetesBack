@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Diabetes.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Diabetes.API</BasePath>
+      <RelativePath>uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ieusa3cdqc</Fingerprint>
+      <Integrity>FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\84564b28-ef24-44fa-8d41-943725c48d1b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Diabetes.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Diabetes.API</BasePath>
+      <RelativePath>uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ieusa3cdqc</Fingerprint>
+      <Integrity>FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images\84564b28-ef24-44fa-8d41-943725c48d1b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\950445cf-0790-44e6-a9d4-02929dbe0634.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Diabetes.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Diabetes.API</BasePath>
+      <RelativePath>uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t9rpetoe4c</Fingerprint>
+      <Integrity>r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\950445cf-0790-44e6-a9d4-02929dbe0634.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c7586ad7-a848-4ae9-8c74-f63136f8719b.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Diabetes.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Diabetes.API</BasePath>
+      <RelativePath>uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>t9rpetoe4c</Fingerprint>
+      <Integrity>r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\videos\c7586ad7-a848-4ae9-8c74-f63136f8719b.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

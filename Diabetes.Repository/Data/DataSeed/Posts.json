@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "New Study on Diabetes Management",
+    "Content": "Recent studies show promising results in the management of diabetes through new lifestyle changes and medication. Join us for the latest updates!",
+    "ImageURL": "https://example.com/images/diabetes_management.jpg",
+    "VideoURL": "https://example.com/videos/diabetes_management.mp4",
+    "PublishDate": "2025-05-10T09:00:00",
+    "OrganizationID": 1
+  },
+  {
+    "Title": "Preventing Type 2 Diabetes",
+    "Content": "Preventing Type 2 Diabetes is more achievable with regular monitoring, healthy eating, and exercise. Here's how you can get started.",
+    "ImageURL": "https://example.com/images/prevent_type2.jpg",
+    "VideoURL": "https://example.com/videos/prevent_type2.mp4",
+    "PublishDate": "2025-05-12T14:00:00",
+    "OrganizationID": 1
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Services.deps.json
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Services.dll
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Services.pdb
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Core.dll
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Repository.dll
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Core.pdb
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\bin\Debug\net6.0\Diabetes.Repository.pdb
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.AssemblyInfo.cs
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.EF64B6AD.Up2Date
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.dll
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\refint\Diabetes.Services.dll
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\Diabetes.Services.pdb
+C:\Users\H\source\repos\Diabetes\Diabetes.Services\obj\Debug\net6.0\ref\Diabetes.Services.dll

@@ -1,0 +1,39 @@
+[
+    {
+      "Name": "Mahmoud Adel",
+      "Gender": "Male",
+      "BirthDate": "1990-05-12",
+      "PhoneNumber": "01110000001",
+      "CreatedAt": "2024-02-01T09:00:00",
+      "ClerkID": 1,
+      "AdminID": 1
+    },
+    {
+      "Name": "Sara Hany",
+      "Gender": "Female",
+      "BirthDate": "1995-08-23",
+      "PhoneNumber": "01110000002",
+      "CreatedAt": "2024-02-02T09:00:00",
+      "ClerkID": 1,
+      "AdminID": 1
+    },
+    {
+      "Name": "Mostafa Kamal",
+      "Gender": "Male",
+      "BirthDate": "1988-01-15",
+      "PhoneNumber": "01110000003",
+      "CreatedAt": "2024-02-03T09:00:00",
+      "ClerkID": 1,
+      "AdminID": 1
+    },
+    {
+      "Name": "Heba Youssef",
+      "Gender": "Female",
+      "BirthDate": "1992-11-30",
+      "PhoneNumber": "01110000004",
+      "CreatedAt": "2024-02-04T09:00:00",
+      "ClerkID": 1,
+      "AdminID": 1
+    }
+
+  ]

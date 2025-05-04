@@ -1,0 +1,134 @@
+[
+  {
+    "QuestionText": "What is the patient's insulin level?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's Body Mass Index ?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "How old is the patient?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What was the patient's blood glucose level at the last check?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's blood pressure?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's cholesterol level?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's waist circumference ?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "How much weight did the patient gain during pregnancy ?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's pancreatic health score? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's pulmonary function score?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "How many abnormal neurological assessments has the patient shown?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's digestive enzyme level?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What was the patient's birth weight ?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Did the patient's genetic test show any positive markers? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Were any autoantibodies found in the patient's test results? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Does the patient have a family history of diabetes? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Has the patient been exposed to any environmental risk factors? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's level of physical activity?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "How would you describe the patient's dietary habits?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the patient's ethnicity risk level for diabetes?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "How would you rate the patient's socioeconomic status? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Does the patient currently smoke? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Does the patient consume alcohol? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the result of the patient's glucose tolerance test? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Has the patient ever been diagnosed with PCOS? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Has the patient had gestational diabetes in any previous pregnancy? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Has the patient experienced any abnormal pregnancy conditions? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Has the patient been diagnosed with cystic fibrosis? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Does the patient have a history of steroid use?",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the result of the patient's latest genetic testing? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What were the patient's liver function test results? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "What is the result of the patient's urine test? ",
+    "AdminID": 1
+  },
+  {
+    "QuestionText": "Has the patient experienced any early onset symptoms of diabetes? ",
+    "AdminID": 1
+  }
+]

@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "SEkFHNadodv9c/ydbkzp+omIGVW/r37Ifu9Kmw5R6DY=",
+  "Source": "Diabetes.API",
+  "BasePath": "_content/Diabetes.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Diabetes.API\\wwwroot",
+      "Source": "Diabetes.API",
+      "ContentRoot": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\",
+      "BasePath": "_content/Diabetes.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\images\\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg",
+      "SourceId": "Diabetes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\",
+      "BasePath": "_content/Diabetes.API",
+      "RelativePath": "uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ieusa3cdqc",
+      "Integrity": "FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\images\\84564b28-ef24-44fa-8d41-943725c48d1b.jpg",
+      "SourceId": "Diabetes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\",
+      "BasePath": "_content/Diabetes.API",
+      "RelativePath": "uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ieusa3cdqc",
+      "Integrity": "FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images\\84564b28-ef24-44fa-8d41-943725c48d1b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\videos\\950445cf-0790-44e6-a9d4-02929dbe0634.png",
+      "SourceId": "Diabetes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\",
+      "BasePath": "_content/Diabetes.API",
+      "RelativePath": "uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t9rpetoe4c",
+      "Integrity": "r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\videos\\950445cf-0790-44e6-a9d4-02929dbe0634.png"
+    },
+    {
+      "Identity": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\videos\\c7586ad7-a848-4ae9-8c74-f63136f8719b.png",
+      "SourceId": "Diabetes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\",
+      "BasePath": "_content/Diabetes.API",
+      "RelativePath": "uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t9rpetoe4c",
+      "Integrity": "r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\videos\\c7586ad7-a848-4ae9-8c74-f63136f8719b.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.ieusa3cdqc.jpg",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\images\\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieusa3cdqc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/4f2a570a-762c-405c-bcc6-4310d12a424e.jpg",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\images\\4f2a570a-762c-405c-bcc6-4310d12a424e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.ieusa3cdqc.jpg",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\images\\84564b28-ef24-44fa-8d41-943725c48d1b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieusa3cdqc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/images/84564b28-ef24-44fa-8d41-943725c48d1b.jpg",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\images\\84564b28-ef24-44fa-8d41-943725c48d1b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FkHjWXUBvCel80zY80IglUMiZBRbtLCaVWq7OKtKFlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.png",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\videos\\950445cf-0790-44e6-a9d4-02929dbe0634.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.t9rpetoe4c.png",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\videos\\950445cf-0790-44e6-a9d4-02929dbe0634.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:32:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t9rpetoe4c"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/videos/950445cf-0790-44e6-a9d4-02929dbe0634.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.png",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\videos\\c7586ad7-a848-4ae9-8c74-f63136f8719b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.t9rpetoe4c.png",
+      "AssetFile": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\wwwroot\\uploads\\videos\\c7586ad7-a848-4ae9-8c74-f63136f8719b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 21:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t9rpetoe4c"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/videos/c7586ad7-a848-4ae9-8c74-f63136f8719b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r0etYkqr/nDjsIcb28U9qnEfW6DGfBoB50V2Qz3joHg="
+        }
+      ]
+    }
+  ]
+}
