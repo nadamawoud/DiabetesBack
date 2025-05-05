@@ -6,6 +6,7 @@ C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.Ge
 C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.AssemblyInfoInputs.cache
 C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.AssemblyInfo.cs
 C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.sourcelink.json
 C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.dll
 C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\refint\Diabetes.Core.dll
 C:\Users\H\source\repos\Diabetes\Diabetes.Core\obj\Debug\net6.0\Diabetes.Core.pdb

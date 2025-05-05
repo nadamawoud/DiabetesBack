@@ -9,6 +9,7 @@ C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.R
 C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.Repository.AssemblyInfoInputs.cache
 C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.Repository.AssemblyInfo.cs
 C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.Repository.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.Repository.sourcelink.json
 C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.04203F30.Up2Date
 C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\Diabetes.Repository.dll
 C:\Users\H\source\repos\Diabetes\Diabetes.Repository\obj\Debug\net6.0\refint\Diabetes.Repository.dll

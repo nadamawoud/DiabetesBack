@@ -9,11 +9,8 @@ namespace Diabetes.Core.Interfaces
 {
     public interface IDoctorService
     {
-        Task<IEnumerable<DoctorDto>> GetPendingDoctorsAsync();
-        Task UpdateDoctorStatusAsync(int doctorId, string status);
-
-        // إضافة الميثود الجديدة
-        Task RegisterDoctorAsync(RegisterDoctorDto registrationDto);
+        Task<List<DoctorApprovalDto>> GetPendingDoctorsAsync();
+        Task<DoctorApprovalDto> UpdateDoctorStatusAsync(int doctorId, string status);
     }
 
 }

@@ -7,8 +7,12 @@ using System.Threading.Tasks;
 
 namespace Diabetes.Core.DTOs
 {
-    public class DoctorApprovalDTO
+    public class DoctorApprovalDto
     {
-        public string ApprovalStatus { get; set; } = "Pending";
+        public int DoctorId { get; set; }
+        public string DoctorName { get; set; }
+        public string Status { get; set; }
+        public DateTime? ApprovalDate { get; set; }
     }
+
 }

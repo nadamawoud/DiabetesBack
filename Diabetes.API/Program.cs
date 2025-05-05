@@ -13,6 +13,7 @@ using Microsoft.Extensions.Options;
 using Diabetes.Core.Interfaces;
 using Diabetes.Services;
 using Diabetes.Repository.Repositories;
+using Diabetes.Services.Services.Diabetes.Services.Services;
 
 
 namespace Diabetes.API
@@ -107,9 +108,8 @@ namespace Diabetes.API
             builder.Services.AddScoped<IPostService, PostService>();
             builder.Services.AddScoped<PostRepository>();
             builder.Services.AddScoped<ICreatePostService, CreatePostService>();
-            
-
-
+            builder.Services.AddScoped<ITokenService, TokenClerk>();
+            builder.Services.AddScoped<IDoctorAdminService, DoctorAdminService>();
 
 
             #endregion

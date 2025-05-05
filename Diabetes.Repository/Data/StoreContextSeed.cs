@@ -58,6 +58,36 @@ namespace Diabetes.Repository.Data
                     await DbContext.SaveChangesAsync();
                 }
             }
+            if (!DbContext.DiagnosisTypes.Any())
+            {
+                //Seeding DiagnosisTypes
+                var DiagnosisTypesData = File.ReadAllText("../Diabetes.Repository/Data/DataSeed/DiagnosisTypes.json");
+                var DiagnosisTypes = JsonSerializer.Deserialize<List<DiagnosisType>>(DiagnosisTypesData);
+                if (DiagnosisTypes?.Count > 0)
+                {
+                    foreach (var DiagnosisType in DiagnosisTypes)
+                    {
+                        await DbContext.Set<DiagnosisType>().AddAsync(DiagnosisType);
+                    }
+                    await DbContext.SaveChangesAsync();
+                }
+            }
+            if (!DbContext.MedicalHistories.Any())
+            {
+                //Seeding MedicalHistories
+                var MedicalHistoriesData = File.ReadAllText("../Diabetes.Repository/Data/DataSeed/MedicalHistories.json");
+                var MedicalHistories = JsonSerializer.Deserialize<List<MedicalHistory>>(MedicalHistoriesData);
+                if (MedicalHistories?.Count > 0)
+                {
+                    foreach (var medicalHistory in MedicalHistories)
+                    {
+                        await DbContext.Set<MedicalHistory>().AddAsync(medicalHistory);
+                    }
+                    await DbContext.SaveChangesAsync();
+                }
+            }
+
+
 
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diabetes.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc813f4c37f5e1a9770b6465d613b8f5c07b4e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diabetes.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diabetes.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

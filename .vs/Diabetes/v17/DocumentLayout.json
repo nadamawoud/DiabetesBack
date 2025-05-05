@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\\source\\repos\\Diabetes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.api\\controllers\\loginonlyauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|solutionrelative:diabetes.api\\controllers\\loginonlyauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.api\\controllers\\doctoradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|solutionrelative:diabetes.api\\controllers\\doctoradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.api\\controllers\\createpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|solutionrelative:diabetes.api\\controllers\\createpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.api\\controllers\\clerkauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|solutionrelative:diabetes.api\\controllers\\clerkauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|solutionrelative:diabetes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.services\\services\\doctoradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|solutionrelative:diabetes.services\\services\\doctoradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\interfaces\\idoctoradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\interfaces\\idoctoradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\doctoradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\doctoradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\casualuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\casualuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\verifyemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\verifyemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42881DBF-951C-4AEC-946D-C2063FF6F64F}|Diabetes.API\\Diabetes.API.csproj|solutionrelative:diabetes.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|solutionrelative:diabetes.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.services\\services\\tokenclerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|solutionrelative:diabetes.services\\services\\tokenclerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.services\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|solutionrelative:diabetes.services\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.services\\diabetes.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0ECDE0-C5A2-433C-BEF5-E2C2AA50AE65}|Diabetes.Services\\Diabetes.Services.csproj|solutionrelative:diabetes.services\\diabetes.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\clerkloginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\clerkloginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\clerklogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\clerklogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.repository\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|solutionrelative:diabetes.repository\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.repository\\actorseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|solutionrelative:diabetes.repository\\actorseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.repository\\data\\dataseed\\medicalhistories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|solutionrelative:diabetes.repository\\data\\dataseed\\medicalhistories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.repository\\data\\dataseed\\diagnosistypes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|solutionrelative:diabetes.repository\\data\\dataseed\\diagnosistypes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|solutionrelative:diabetes.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\diagnosistype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\diagnosistype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.repository\\data\\dataseed\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DB4F09-FA33-4929-AF57-68ECDFE43554}|Diabetes.Repository\\Diabetes.Repository.csproj|solutionrelative:diabetes.repository\\data\\dataseed\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\dtos\\doctorapprovaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\dtos\\doctorapprovaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\h\\source\\repos\\diabetes\\diabetes.core\\entities\\doctorapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DD384-D1A5-4949-80C3-7B4AC1F289B9}|Diabetes.Core\\Diabetes.Core.csproj|solutionrelative:diabetes.core\\entities\\doctorapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Program.cs",
+              "RelativeDocumentMoniker": "Diabetes.API\\Program.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Program.cs",
+              "RelativeToolTip": "Diabetes.API\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:04:02.429Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePostsController.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\CreatePostsController.cs",
+              "RelativeDocumentMoniker": "Diabetes.API\\Controllers\\CreatePostsController.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\CreatePostsController.cs",
+              "RelativeToolTip": "Diabetes.API\\Controllers\\CreatePostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:46:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateDoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\UpdateDoctorDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\UpdateDoctorDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\UpdateDoctorDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\UpdateDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:15:17.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateDoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\CreateDoctorDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\CreateDoctorDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\CreateDoctorDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\CreateDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:14:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\DoctorAdminController.cs",
+              "RelativeDocumentMoniker": "Diabetes.API\\Controllers\\DoctorAdminController.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\DoctorAdminController.cs",
+              "RelativeToolTip": "Diabetes.API\\Controllers\\DoctorAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:20:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginOnlyAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\LoginOnlyAuthController.cs",
+              "RelativeDocumentMoniker": "Diabetes.API\\Controllers\\LoginOnlyAuthController.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\LoginOnlyAuthController.cs",
+              "RelativeToolTip": "Diabetes.API\\Controllers\\LoginOnlyAuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:09:53.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDoctorAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\IDoctorAdminService.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Interfaces\\IDoctorAdminService.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\IDoctorAdminService.cs",
+              "RelativeToolTip": "Diabetes.Core\\Interfaces\\IDoctorAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:15:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\DoctorAdminService.cs",
+              "RelativeDocumentMoniker": "Diabetes.Services\\Services\\DoctorAdminService.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\DoctorAdminService.cs",
+              "RelativeToolTip": "Diabetes.Services\\Services\\DoctorAdminService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:16:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClerkAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\ClerkAuthController.cs",
+              "RelativeDocumentMoniker": "Diabetes.API\\Controllers\\ClerkAuthController.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\ClerkAuthController.cs",
+              "RelativeToolTip": "Diabetes.API\\Controllers\\ClerkAuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:06:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\DoctorAdminDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\DoctorAdminDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\DoctorAdminDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\DoctorAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:13:58.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\DoctorDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\DoctorDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:13:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CasualUser.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\CasualUser.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\CasualUser.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\CasualUser.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\CasualUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:09:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:08:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Admin.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:08:11.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Alarm.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\Alarm.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Alarm.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\Alarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:08:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\VerifyEmailDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\VerifyEmailDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\VerifyEmailDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\VerifyEmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:34:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Diabetes.Services\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\TokenService.cs",
+              "RelativeToolTip": "Diabetes.Services\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:07:19.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clerk.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Clerk.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\Clerk.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\Clerk.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\Clerk.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:18:49.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Diabetes.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Diabetes.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:22:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Diabetes.Core\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:06:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:18:43.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Diabetes.Services\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\AuthService.cs",
+              "RelativeToolTip": "Diabetes.Services\\Services\\AuthService.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:51:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Diabetes.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Diabetes.Services.csproj",
+              "RelativeDocumentMoniker": "Diabetes.Services\\Diabetes.Services.csproj",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Diabetes.Services.csproj",
+              "RelativeToolTip": "Diabetes.Services\\Diabetes.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T00:10:16.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenClerk.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\TokenClerk.cs",
+              "RelativeDocumentMoniker": "Diabetes.Services\\Services\\TokenClerk.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Services\\Services\\TokenClerk.cs",
+              "RelativeToolTip": "Diabetes.Services\\Services\\TokenClerk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:11:31.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClerkLoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\ClerkLoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\ClerkLoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\ClerkLoginResponseDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\ClerkLoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:04:24.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClerkLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\ClerkLoginDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\ClerkLoginDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\ClerkLoginDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\ClerkLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:03:58.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Diabetes.Repository\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\RoleSeeder.cs",
+              "RelativeToolTip": "Diabetes.Repository\\RoleSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:59:39.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ActorSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\ActorSeeder.cs",
+              "RelativeDocumentMoniker": "Diabetes.Repository\\ActorSeeder.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\ActorSeeder.cs",
+              "RelativeToolTip": "Diabetes.Repository\\ActorSeeder.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:59:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DiagnosisTypes.json",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\DataSeed\\DiagnosisTypes.json",
+              "RelativeDocumentMoniker": "Diabetes.Repository\\Data\\DataSeed\\DiagnosisTypes.json",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\DataSeed\\DiagnosisTypes.json",
+              "RelativeToolTip": "Diabetes.Repository\\Data\\DataSeed\\DiagnosisTypes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T23:54:12.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DiagnosisType.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\DiagnosisType.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\DiagnosisType.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\DiagnosisType.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\DiagnosisType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:43:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MedicalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\MedicalHistory.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\MedicalHistory.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\MedicalHistory.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\MedicalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:42:40.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Posts.json",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\DataSeed\\Posts.json",
+              "RelativeDocumentMoniker": "Diabetes.Repository\\Data\\DataSeed\\Posts.json",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\DataSeed\\Posts.json",
+              "RelativeToolTip": "Diabetes.Repository\\Data\\DataSeed\\Posts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T23:20:41.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MedicalHistories.json",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\DataSeed\\MedicalHistories.json",
+              "RelativeDocumentMoniker": "Diabetes.Repository\\Data\\DataSeed\\MedicalHistories.json",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\DataSeed\\MedicalHistories.json",
+              "RelativeToolTip": "Diabetes.Repository\\Data\\DataSeed\\MedicalHistories.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T23:54:30.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Diabetes.Repository\\Data\\StoreContextSeed.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Repository\\Data\\StoreContextSeed.cs",
+              "RelativeToolTip": "Diabetes.Repository\\Data\\StoreContextSeed.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:19:22.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "Diabetes.Core\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:01:01.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Interfaces\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Interfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "Diabetes.Core\\Interfaces\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:00:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DoctorApprovalDto.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\DoctorApprovalDto.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\DTOs\\DoctorApprovalDto.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\DTOs\\DoctorApprovalDto.cs",
+              "RelativeToolTip": "Diabetes.Core\\DTOs\\DoctorApprovalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:58:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DoctorApproval.cs",
+              "DocumentMoniker": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\DoctorApproval.cs",
+              "RelativeDocumentMoniker": "Diabetes.Core\\Entities\\DoctorApproval.cs",
+              "ToolTip": "C:\\Users\\H\\source\\repos\\Diabetes\\Diabetes.Core\\Entities\\DoctorApproval.cs",
+              "RelativeToolTip": "Diabetes.Core\\Entities\\DoctorApproval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:57:48.403Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

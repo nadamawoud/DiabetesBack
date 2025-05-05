@@ -1,82 +1,20 @@
 [
     {
-      "Diagnosis": "Type 2 Diabetes - stable",
-      "ChatbotData": "Patient reported increased thirst and fatigue",
-      "DiagnosisDate": "2025-03-01T09:00:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 1
-    },
-    {
-      "Diagnosis": "Pre-diabetes - early signs",
-      "ChatbotData": "User mentioned frequent urination",
-      "DiagnosisDate": "2025-03-03T11:30:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 1
-    },
-    {
-      "Diagnosis": "Type 1 Diabetes - under control",
-      "ChatbotData": "Symptoms include weight loss and blurred vision",
-      "DiagnosisDate": "2025-03-06T10:15:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 2
-    },
-    {
-      "Diagnosis": "Hypertension - moderate",
-      "ChatbotData": "Patient reports headaches and stress",
-      "DiagnosisDate": "2025-03-08T14:45:00",
-      "AdminID": 1,
-      "DoctorID": 2,
-      "ManagerID": 1
-    },
-    {
-      "Diagnosis": "Chronic Kidney Disease - stage 1",
-      "ChatbotData": "Chatbot detected abnormal lab values",
-      "DiagnosisDate": "2025-03-10T09:20:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 1
-    },
-    {
-      "Diagnosis": "Gestational Diabetes",
-      "ChatbotData": "Pregnant user with high blood sugar",
-      "DiagnosisDate": "2025-03-12T10:00:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 1
-    },
-    {
-      "Diagnosis": "Type 2 Diabetes - poor control",
-      "ChatbotData": "User skipped medication regularly",
-      "DiagnosisDate": "2025-03-15T15:00:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 1
-    },
-    {
-      "Diagnosis": "Hyperthyroidism - under treatment",
-      "ChatbotData": "Patient reported anxiety and weight loss",
-      "DiagnosisDate": "2025-03-17T17:30:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 2
-    },
-    {
-      "Diagnosis": "Pre-diabetes - improving",
-      "ChatbotData": "User followed lifestyle changes successfully",
-      "DiagnosisDate": "2025-03-19T08:00:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 2
-    },
-    {
-      "Diagnosis": "Type 1 Diabetes - newly diagnosed",
-      "ChatbotData": "User experienced sudden fatigue and hunger",
-      "DiagnosisDate": "2025-03-21T13:40:00",
-      "AdminID": 1,
-      "DoctorID": 1,
-      "ManagerID": 2
-    }
-  ]
+        "DiagnosisDate": "2023-05-01T00:00:00",
+        "DiagnosisTypeID": 1,
+        "PatientID": 3,
+        "DoctorID": 2
+      },
+      {
+        "DiagnosisDate": "2022-11-15T00:00:00",
+        "DiagnosisTypeID": 2,
+        "PatientID": 4,
+        "DoctorID": 2
+      },
+      {
+        "DiagnosisDate": "2024-02-20T00:00:00",
+        "DiagnosisTypeID": 1,
+        "PatientID": 5,
+        "DoctorID": 2
+      }
+]

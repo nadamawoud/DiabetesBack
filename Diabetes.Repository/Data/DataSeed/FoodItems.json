@@ -1,0 +1,2512 @@
+[
+    {
+        "FoodName": "Apple",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Banana",
+        "GlycemicIndex": 51,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Orange",
+        "GlycemicIndex": 42,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Strawberries",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Blueberries",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 76,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Pineapple",
+        "GlycemicIndex": 66,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Mango",
+        "GlycemicIndex": 51,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grapes",
+        "GlycemicIndex": 46,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tomato",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Carrot",
+        "GlycemicIndex": 47,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Broccoli",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lettuce",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cucumber",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Zucchini",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Bell Pepper",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Celery",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggplant",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Sweet Potato",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Brown Rice",
+        "GlycemicIndex": 68,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Quinoa",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Whole Wheat Bread",
+        "GlycemicIndex": 69,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Salmon",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggs",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almonds",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Walnuts",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Peanuts",
+        "GlycemicIndex": 14,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Yogurt",
+        "GlycemicIndex": 11,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cottage Cheese",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentils",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chickpeas",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Black Beans",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Brown Lentils",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kale",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Salmon",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggs",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almonds",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Walnuts",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Peanuts",
+        "GlycemicIndex": 14,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Yogurt",
+        "GlycemicIndex": 11,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cottage Cheese",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentils",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chickpeas",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Black Beans",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Brown Lentils",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kale",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Berries (Mixed)",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oranges",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Apples",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grapes",
+        "GlycemicIndex": 59,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 72,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Blueberries",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Strawberries",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Broccoli",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Green Beans",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Zucchini",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Carrots",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tomatoes",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cucumber",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Asparagus",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mushrooms",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cabbage",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Onions",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Garlic",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lettuce",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Celery",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Bell Peppers",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggplant",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower Rice",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cabbage Soup",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mushroom Soup",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tomato Soup",
+        "GlycemicIndex": 38,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Soup",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Vegetable Soup",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Split Pea Soup",
+        "GlycemicIndex": 38,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Fish Tacos",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Chili",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Veggie Burger",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Salad",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tuna Salad",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Salad",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Caprese Salad",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Caesar Salad",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grilled Chicken",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Salmon",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Shrimp Stir-Fry",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Roasted Turkey",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grilled Salmon",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Baked Chicken",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Steamed Vegetables",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa Salad",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cottage Cheese",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Yogurt",
+        "GlycemicIndex": 11,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almonds",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Walnuts",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Peanuts",
+        "GlycemicIndex": 13,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chia Seeds",
+        "GlycemicIndex": 1,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Flaxseeds",
+        "GlycemicIndex": 1,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Brown Rice",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentils",
+        "GlycemicIndex": 29,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kidney Beans",
+        "GlycemicIndex": 24,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chickpeas",
+        "GlycemicIndex": 28,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Green Peas",
+        "GlycemicIndex": 48,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Broccoli",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kale",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Asparagus",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Zucchini",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Artichokes",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Berries (mixed)",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Apple",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Orange",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grapes",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 76,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Pineapple",
+        "GlycemicIndex": 66,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Strawberries",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Blueberries",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cucumber",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Carrots",
+        "GlycemicIndex": 71,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Sweet Potato",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Quinoa Salad",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggplant",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cabbage",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Radish",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mushrooms",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tomatoes",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Celery",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lettuce",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Onions",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Garlic",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Ginger",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower Rice",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Coconut Milk",
+        "GlycemicIndex": 41,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almond Milk",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Soy Milk",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Yogurt",
+        "GlycemicIndex": 11,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chia Seeds",
+        "GlycemicIndex": 1,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Flaxseeds",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Brown Rice",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentils",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Black Beans",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chickpeas",
+        "GlycemicIndex": 28,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Salmon",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tuna",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Egg Whites",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almonds",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Walnuts",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Peanuts",
+        "GlycemicIndex": 13,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cashews",
+        "GlycemicIndex": 27,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Olive Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Coconut Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Blueberries",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Strawberries",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Raspberries",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Apples",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oranges",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grapes",
+        "GlycemicIndex": 59,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 72,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Pineapple",
+        "GlycemicIndex": 66,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Kiwi",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cottage Cheese",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Salad",
+        "GlycemicIndex": 14,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa Salad",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentil Soup",
+        "GlycemicIndex": 44,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Salad",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Fish Tacos",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Zucchini Noodles",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggplant Parmesan",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach Salad",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Stir-Fried Tofu",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Steamed Broccoli",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cottage Cheese",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mozzarella Cheese",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Eggplant",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Zucchini",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Bell Peppers",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Broccoli",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kale",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Asparagus",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Brussels Sprouts",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cabbage",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Celery",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lettuce",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Brown Rice",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Whole Wheat Bread",
+        "GlycemicIndex": 69,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Barley",
+        "GlycemicIndex": 28,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentils",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chickpeas",
+        "GlycemicIndex": 42,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kidney Beans",
+        "GlycemicIndex": 24,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Black Beans",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Walnuts",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almonds",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cashews",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Peanuts",
+        "GlycemicIndex": 13,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Flaxseeds",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chia Seeds",
+        "GlycemicIndex": 1,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Yogurt",
+        "GlycemicIndex": 11,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Salmon",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tuna",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cod",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Shrimp",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Soy Milk",
+        "GlycemicIndex": 34,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almond Milk",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Coconut Milk",
+        "GlycemicIndex": 41,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Olive Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Flaxseed Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chia Seed Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Salmon Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Apple",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pear",
+        "GlycemicIndex": 38,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Orange",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Blueberries",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Strawberries",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Raspberries",
+        "GlycemicIndex": 32,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 72,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Pineapple",
+        "GlycemicIndex": 59,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Kiwi",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cucumber",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Celery",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lettuce",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Spinach",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kale",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Broccoli",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Carrots",
+        "GlycemicIndex": 41,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Green Beans",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tomato",
+        "GlycemicIndex": 38,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tofu",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quorn",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lamb",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pork Tenderloin",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Brown Bread",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Whole Wheat Pasta",
+        "GlycemicIndex": 37,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa Pasta",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower Rice",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Zucchini Noodles",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cabbage",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Seaweed",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Miso Soup",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Green Tea",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 72,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Berries (mixed)",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quorn",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lamb",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pork Tenderloin",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Brown Bread",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Whole Wheat Pasta",
+        "GlycemicIndex": 37,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa Pasta",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Cauliflower Rice",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Zucchini Noodles",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Seaweed",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Miso Soup",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Green Tea",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Watermelon",
+        "GlycemicIndex": 72,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Berries (mixed)",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Grapes",
+        "GlycemicIndex": 59,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Oranges",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Apples",
+        "GlycemicIndex": 39,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pears",
+        "GlycemicIndex": 38,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Avocado",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Coconut",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Olive Oil",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Almond Butter",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Greek Yogurt",
+        "GlycemicIndex": 11,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quorn",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Turkey Breast",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lean Beef",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lamb",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pork Tenderloin",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Oats",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Brown Bread",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Whole Wheat Pasta",
+        "GlycemicIndex": 37,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Quinoa Pasta",
+        "GlycemicIndex": 53,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chapati",
+        "GlycemicIndex": 62,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Rice",
+        "GlycemicIndex": 73,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Dal",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Paneer",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Fish Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Vegetable Biryani",
+        "GlycemicIndex": 46,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Samosa",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Dosa",
+        "GlycemicIndex": 60,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Idli",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Pakora",
+        "GlycemicIndex": 75,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Mutton Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Butter Chicken",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Palak Paneer",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Aloo Gobi",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Chana Masala",
+        "GlycemicIndex": 42,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Baingan Bharta",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rajma Chawal",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Pani Puri",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Samosa Chaat",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Mango Lassi",
+        "GlycemicIndex": 41,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Gulab Jamun",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Masoor Dal",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Aloo Paratha",
+        "GlycemicIndex": 95,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Tandoori Roti",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Korma",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pulao",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Gajar Halwa",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Malai Kofta",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Chicken Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mango Pickle",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pav Bhaji",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Coconut Chutney",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rasgulla",
+        "GlycemicIndex": 86,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Matar Paneer",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Puri",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Chole Bhature",
+        "GlycemicIndex": 78,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Bhindi Masala",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mango Chutney",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Mutton Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Puliyogare",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Kheer",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Rajma Masala",
+        "GlycemicIndex": 27,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pav",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Veg Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tandoori Chicken",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Methi Paratha",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Baigan Masala",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Malai Paneer",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Dahi Vada",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Prawn Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Gobi Manchurian",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Kebab",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Vegetable Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Raita",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kadai Paneer",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Vegetable Pulao",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Tikka",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Palak Paneer",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Medu Vada",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Fish Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Paneer Tikka",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Veg Cutlet",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rasam",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Upma",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Lemon Rice",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Shahi Tukda",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Rajma Chawal",
+        "GlycemicIndex": 27,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kadhi Pakora",
+        "GlycemicIndex": 60,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Aloo Gobi",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Samosa",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Rajasthani Dal",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kachori",
+        "GlycemicIndex": 90,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Pongal",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Gulab Jamun",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Vada Pav",
+        "GlycemicIndex": 80,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Butter Chicken",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Dhokla",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Aloo Paratha",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pani Puri",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Matar Paneer",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Bhindi Masala",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pav Bhaji",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Chicken Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Dosa",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Paneer Butter Masala",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Fish Fry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chole Bhature",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tandoori Chicken",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mutton Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kheer",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pulao",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Gobi Manchurian",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Masoor Dal",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mushroom Curry",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rava Upma",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Korma",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rajma Masala",
+        "GlycemicIndex": 27,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Aloo Tikki",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Butter Naan",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Shahi Paneer",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Dahi Vada",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Baingan Bharta",
+        "GlycemicIndex": 15,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Malai Kofta",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pesarattu",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Vegetable Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Tikka Masala",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rava Idli",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Vegetable Korma",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kadai Paneer",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Uttapam",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Vegetable Pulao",
+        "GlycemicIndex": 60,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Methi Thepla",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Palak Paneer",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pani Puri",
+        "GlycemicIndex": 85,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Aloo Paratha",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Chicken 65",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chana Masala",
+        "GlycemicIndex": 42,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Vada Pav",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Mutton Rogan Josh",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Papdi Chaat",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Malabar Parotta",
+        "GlycemicIndex": 75,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Fish Curry",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Gajar Halwa",
+        "GlycemicIndex": 70,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Kadhi Pakora",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rasgulla",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Kheer",
+        "GlycemicIndex": 65,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Paneer Tikka",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Matar Paneer",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Pav Bhaji",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Chicken Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Dosa",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lassi",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Rajma Chawal",
+        "GlycemicIndex": 27,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chole Bhature",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Hummus",
+        "GlycemicIndex": 6,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Falafel",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Tabbouleh",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Shawarma",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Moutabal",
+        "GlycemicIndex": 12,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mandi",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kabsa",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Fatayer",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Manakish",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lamb Kofta",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Labneh",
+        "GlycemicIndex": 4,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kunafa",
+        "GlycemicIndex": 75,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Shish Taouk",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Shawarma Wrap",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mansaf",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Foul Medames",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lamb Shawarma",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Laban",
+        "GlycemicIndex": 4,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Muhallabia",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Mandi",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kibbeh",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Samboosa",
+        "GlycemicIndex": 80,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Mutton Biryani",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mango Juice",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Kofta",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Makbous",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Lamb Ouzi",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Fattoush",
+        "GlycemicIndex": 25,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mansaf",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kibbeh Nayyeh",
+        "GlycemicIndex": 0,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Falafel Wrap",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Labneh Manakish",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Arayes",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kunafa",
+        "GlycemicIndex": 75,
+        "GlycemicCategory": "High"
+    },
+    {
+        "FoodName": "Baklava",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Karak Tea",
+        "GlycemicIndex": 30,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Kabsa",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Sambousek",
+        "GlycemicIndex": 45,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Mujadara",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Shakshuka",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lentil Soup",
+        "GlycemicIndex": 35,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Foul Sandwich",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Chicken Shawarma",
+        "GlycemicIndex": 20,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Harira Soup",
+        "GlycemicIndex": 40,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Lamb Kabsa",
+        "GlycemicIndex": 50,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Maamoul",
+        "GlycemicIndex": 68,
+        "GlycemicCategory": "Medium"
+    },
+    {
+        "FoodName": "Baba Ganoush",
+        "GlycemicIndex": 10,
+        "GlycemicCategory": "Low"
+    },
+    {
+        "FoodName": "Za'atar Manakish",
+        "GlycemicIndex": 55,
+        "GlycemicCategory": "Medium"
+    }
+]

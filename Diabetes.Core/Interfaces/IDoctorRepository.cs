@@ -9,9 +9,7 @@ namespace Diabetes.Core.Interfaces
 {
     public interface IDoctorRepository
     {
-        Task<IEnumerable<Doctor>> GetPendingDoctorsAsync();
-        Task<DoctorApproval> GetDoctorApprovalAsync(int doctorId);
-        Task AcceptOrRejectDoctorAsync(int doctorId, string status);
+        Task<List<DoctorApproval>> GetPendingDoctorsAsync();
+        Task<DoctorApproval> UpdateDoctorApprovalStatusAsync(int doctorId, string status);
     }
-
 }

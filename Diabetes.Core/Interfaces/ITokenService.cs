@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace Diabetes.Core.Interfaces
 {
-    public interface ITokenService
-    {
-        Task<string> CreateToken(AppUser user);
-    }
+    
+        public interface ITokenService
+        {
+            Task<string> CreateToken(AppUser user);
+        }
+    
+
 }

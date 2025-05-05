@@ -1,3 +1,10 @@
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.csproj.AssemblyReference.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.AssemblyInfoInputs.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.AssemblyInfo.cs
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.sourcelink.json
 C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\appsettings.json
 C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\Diabetes.API.staticwebassets.runtime.json
@@ -99,13 +106,6 @@ C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\Diabetes.Services
 C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\Diabetes.Services.pdb
 C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\Diabetes.Core.pdb
 C:\Users\H\source\repos\Diabetes\Diabetes.API\bin\Debug\net6.0\Diabetes.Repository.pdb
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.csproj.AssemblyReference.cache
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.AssemblyInfoInputs.cache
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.AssemblyInfo.cs
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.csproj.CoreCompileInputs.cache
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\Diabetes.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\scopedcss\bundle\Diabetes.API.styles.css
 C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\H\source\repos\Diabetes\Diabetes.API\obj\Debug\net6.0\staticwebassets.development.json
